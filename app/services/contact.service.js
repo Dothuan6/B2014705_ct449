@@ -1,5 +1,5 @@
 const { ObjectId } = require("mongodb");
-const ApiError = require("../api-error");
+// const ApiError = require("../api-error");
 
 class ContactService {
   constructor(client) {
